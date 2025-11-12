@@ -8,7 +8,7 @@ Complete Component Library: Drag and drop all 7 basic logic gates (AND, OR, NOT,
 
 Sequential Logic: Simulate sequential circuits using an interactive Clock component that provides a steady pulse.
 
-Interactive I/O: Use toggleable Switches for inputs and "LED" Probes for outputs.
+Interactive I/O: Use toggleable Switches for inputs and "LED" Probes for outputs (RED-0, GREEN-1).
 
 Custom Labeling: Double-click any component (gates, switches, probes) to give it a custom name (e.g., "A", "Sum").
 
@@ -22,7 +22,7 @@ Full GUI Tooling:
 
 Multi-selection with Shift-click.
 
-Delete components with the Delete key.
+Delete components with the Delete key or BackSpace.
 
 Dynamic palette that reloads custom gates without a restart.
 
